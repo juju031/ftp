@@ -1,4 +1,4 @@
-##FTP for Yii2
+##FTP for Yii2 
 ##安装
 
 ```
